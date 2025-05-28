@@ -1,2 +1,1 @@
-My first readme
-README update
+This repo fouces on basic of shell comands
